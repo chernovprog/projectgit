@@ -5,9 +5,6 @@ public class Main {
   private String name;
   
   public static void main(String[] args) {
-    System.out.println("Main.main");
-=======
-
->>>>>>> master
+    System.out.println("Main.main"); 
   }
 }
