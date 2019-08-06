@@ -1,5 +1,5 @@
 package ua.kiev.prog;
-
+ 
 public class Main {
   int age;
 
@@ -7,5 +7,5 @@ public class Main {
     //удалил ненужное
     System.out.println("Main.main");
 
-  }
+  } 
 }
