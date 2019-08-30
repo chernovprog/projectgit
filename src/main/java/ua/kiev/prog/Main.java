@@ -6,6 +6,8 @@ public class Main {
  String name;
 
   public static void main(String[] args) {
-    System.out.println("Main.main");
+    String s = "temp";
   } 
+ 
+ static void vvv() {}
 }
