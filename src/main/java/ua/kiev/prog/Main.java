@@ -1,13 +1,9 @@
 package ua.kiev.prog;
- 
-public class Main {
-  int age;
- 
- String name;
 
-  public static void main(String[] args) {
-    String s = "temp";
-  } 
+public class Main { 
+
+    public static void main(String[] args) {
+        System.out.println("Main.main");
+    }
  
- static void vvv() {}
 }
