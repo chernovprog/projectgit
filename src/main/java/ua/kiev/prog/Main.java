@@ -8,6 +8,6 @@ public class Main {
 
 
     public String getInfo() {
-        return "info";
+        return "";
     }
 }
